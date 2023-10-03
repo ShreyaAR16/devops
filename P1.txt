@@ -1,1 +1,10 @@
-Program 1
+Git Commands
+
+git init
+git status
+git add <file name>/entire projects
+git commit -m "msg" 
+git config --global user.name
+git config --list
+git log
+git add .
