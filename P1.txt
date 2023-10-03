@@ -8,3 +8,5 @@ git config --global user.name
 git config --list
 git log
 git add .
+git clone <url>
+cat <file name>
